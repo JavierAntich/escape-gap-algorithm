@@ -5,4 +5,4 @@ This GitHub repository contains the C++ source code that implements a novel algo
 
 EG has been integrated into the MRPT application named Holonomic Navigator Demo (https://www.mrpt.org/list-of-mrpt-apps/application-holonomic-navigator-demo/). This application provides a friendly Graphical User Interface to test the EG algorithm in simulation.
 
-![Alt text](./imgs/screenshot.png?raw=true "The EG algorithm successfully moves the robot from the green square to the red star")
+![The EG algorithm in action](./imgs/screenshot.png?raw=true "The EG algorithm successfully moves the robot from the green square to the red star")
